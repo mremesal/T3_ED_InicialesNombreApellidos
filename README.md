@@ -1,1 +1,36 @@
-# T3_ED_InicialesNombreApellidos
+# T3_ED_M_R_S
+Fichero de instrucciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
